@@ -1,0 +1,35 @@
+Сглаживание шрифтов в Java-приложениях:
+    _JAVA_OPTIONS='-Dawt.useSystemAAFontSettings=gasp'
+
+ZSH + Guake:
+    https://github.com/zsh-users/zsh-autosuggestions/issues/171
+
+    
+HiDPI:
+    export GDK_SCALE=2
+    export QT_SCREEN_SCALE_FACTORS=2
+
+    
+AUR:
+    Most people here probably only run makepkg only to immediately install the package afterwards (then probably delete it). So it seems like a big waste of time to spend time compressing the package only to decompress it seconds later. Other people here might run a small repo or something that requires them to have a compressed package file, and they can benefit, too, by taking advantage of the parallelization introduced in recently-released xz 5.2.0.
+
+    To skip compression, you'll want to make the following change to your /etc/makepkg.conf:
+
+    [...]
+    #PKGEXT='.pkg.tar.xz'
+    PKGEXT='.pkg.tar'
+    [...]
+
+    (essentially removing ".xz" from $PKGEXT)
+
+    To instead use multiple cores to compress, you're going to have to change the $COMPRESSXZ variable:
+
+    [...]
+    COMPRESSXZ=(xz -T 0 -c -z -)
+    [...]
+
+    (adding "-T 0" to the parameters)
+
+    Taken from the wiki:
+    https://wiki.archlinux.org/index.php/Makepkg#Create_uncompressed_packages
+    https://wiki.archlinux.org/index.php/Makepkg#Utilizing_multiple_cores_on_compression

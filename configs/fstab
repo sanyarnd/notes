@@ -1,0 +1,25 @@
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                             <mount point>   <type>  <options>                                                                                               <dump>  <pass>
+
+# EFI
+UUID=5E29-BA1E                              /boot/efi       vfat    rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro    0       1
+
+# ROOT
+UUID=c91a315e-7434-4c94-a07d-255ae2ecbb55   /               ext4    defaults,discard,rw,relatime,data=ordered,errors=remount-ro                                             0       1
+
+# SWAP
+UUID=529141ae-f4bf-49ae-ae18-4efe74221781   none            swap    defaults,sw                                                                                             0       0
+
+# TMP on RAM
+tmpfs                                       /tmp            tmpfs   defaults,noatime,mode=1777,nodev,nosuid,size=8G                                                         0       0
+
+# seagate 2TB HDD
+UUID=757e7fb8-2a1f-4dc6-ad48-689d6ceac1af   /media/sg2TB    ext4    defaults,noatime,nofail,data=ordered,errors=remount-ro                                                  0       2
+
+# seagate 7TB HDD
+UUID=587da81a-d082-444a-b2cf-8042bf8501a0   /media/sg7TB    ext4    defaults,noatime,nofail,data=ordered,errors=remount-ro                                                  0       2

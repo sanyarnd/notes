@@ -1,0 +1,50 @@
+export ZSH=/home/alex/.oh-my-zsh
+
+ZSH_THEME="robbyrussell"
+export UPDATE_ZSH_DAYS=14
+COMPLETION_WAITING_DOTS="true"
+
+
+# History
+HISTSIZE=1000
+SAVEHIST=1000
+HISTFILE=~/.zsh_history
+
+# sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+# git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+# git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search
+# git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+# git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-completions
+
+plugins=(python pip npm node rust cargo archlinux colorize command-not-found git zsh-syntax-highlighting zsh-history-substring-search zsh-autosuggestions zsh-completions)
+
+# Use modern completion system
+autoload -U compinit && compinit
+
+source $ZSH/oh-my-zsh.sh
+
+# User configuration
+
+# Preferred editor for local and remote sessions
+if [[ -n $SSH_CONNECTION ]]; then
+  export EDITOR='nano'
+else
+  export EDITOR='nano'
+fi
+
+SUDO_EDITOR=kate
+
+# ssh
+# export SSH_KEY_PATH="~/.ssh/rsa_id"
+
+# Set personal aliases, overriding those provided by oh-my-zsh libs,
+# plugins, and themes. Aliases can be placed here, though oh-my-zsh
+# users are encouraged to define aliases within the ZSH_CUSTOM folder.
+# For a full list of active aliases, run `alias`.
+#
+# Example aliases
+# alias zshconfig="mate ~/.zshrc"
+# alias ohmyzsh="mate ~/.oh-my-zsh"
+
+
+alias plasmashell-restart="kbuildsycoca5 && kquitapp5 plasmashell && kstart5 plasmashell"
