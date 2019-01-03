@@ -1,0 +1,1 @@
+C:\Portable\Tor\Tor\tor.exe --service install -options -f C:\Portable\Tor\Data\Tor\torrc
