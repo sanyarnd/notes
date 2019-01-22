@@ -3,7 +3,7 @@
 
 Value `System.IsPinnedToNameSpaceTree` to `0`
 
-##### PATH record length limit
+##### PATH's entry length limit
 ```HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem```
 
 Value `LongPathsEnabled` to `1`
