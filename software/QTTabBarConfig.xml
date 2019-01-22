@@ -330,6 +330,7 @@
         <Path>::{031E4825-7B94-4DC3-B131-E946B44C8DD5}</Path>
         <ResolutionTimeout>10000</ResolutionTimeout>
         <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000010000</Options>
       </CommandButton>
       <CommandButton Type="File" SubType="Split" PersistentID="1716358">
         <FileAction>Default</FileAction>
@@ -338,6 +339,7 @@
         <Path>::{20D04FE0-3AEA-1069-A2D8-08002B30309D}</Path>
         <ResolutionTimeout>10000</ResolutionTimeout>
         <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000010000</Options>
       </CommandButton>
       <CommandButton Type="File" SubType="Split" PersistentID="1770929">
         <FileAction>Default</FileAction>
@@ -346,6 +348,7 @@
         <Path>::{26EE0668-A00A-44D7-9371-BEB064C98683}</Path>
         <ResolutionTimeout>10000</ResolutionTimeout>
         <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000010000</Options>
       </CommandButton>
       <CommandButton Type="File" SubType="Normal" PersistentID="1891037">
         <FileAction>Default</FileAction>
@@ -366,6 +369,7 @@
           <Group>Drives</Group>
         </Groups>
         <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000010000</Options>
       </CommandButton>
     </CommandBar2nd>
     <CommandBarVertical IconSize="48">
@@ -376,6 +380,7 @@
         <Path>::{031E4825-7B94-4DC3-B131-E946B44C8DD5}</Path>
         <ResolutionTimeout>10000</ResolutionTimeout>
         <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000010000</Options>
       </CommandButton>
       <CommandButton Type="File" SubType="Split" PersistentID="2054751">
         <FileAction>Default</FileAction>
@@ -384,6 +389,7 @@
         <Path>::{20D04FE0-3AEA-1069-A2D8-08002B30309D}</Path>
         <ResolutionTimeout>10000</ResolutionTimeout>
         <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000010000</Options>
       </CommandButton>
       <CommandButton Type="File" SubType="Split" PersistentID="2109323">
         <FileAction>Default</FileAction>
@@ -392,6 +398,7 @@
         <Path>::{26EE0668-A00A-44D7-9371-BEB064C98683}</Path>
         <ResolutionTimeout>10000</ResolutionTimeout>
         <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000010000</Options>
       </CommandButton>
       <CommandButton Type="File" SubType="Normal" PersistentID="2163894">
         <FileAction>Default</FileAction>
@@ -412,6 +419,7 @@
           <Group>Drives</Group>
         </Groups>
         <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000010000</Options>
       </CommandButton>
     </CommandBarVertical>
     <Pool />
@@ -437,7 +445,7 @@
       <BreadcrumbsMiddleClick>000000000E00000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</BreadcrumbsMiddleClick>
       <CommandButtonClick>000000000C00000002000000FFFFFFFF0E000000FFFFFFFFFFFFFFFFFFFFFFFF</CommandButtonClick>
       <CommandButtonMiddleClick>0F0000000C00000000000000FFFFFFFF0E000000FFFFFFFFFFFFFFFFFFFFFFFF</CommandButtonMiddleClick>
-      <WindowCloseButton>000000000300000001000000FFFFFFFF03000000FFFFFFFFFFFFFFFFFFFFFFFF</WindowCloseButton>
+      <WindowCloseButton>010000000300000001000000FFFFFFFF03000000FFFFFFFFFFFFFFFFFFFFFFFF</WindowCloseButton>
       <JumpListCommand>010000000300000001000000FFFFFFFF03000000FFFFFFFFFFFFFFFFFFFFFFFF</JumpListCommand>
       <GroupMenuClick>000000000C00000001000000FFFFFFFF02000000FFFFFFFFFFFFFFFFFFFFFFFF</GroupMenuClick>
       <GroupMenuMiddleClick>02000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</GroupMenuMiddleClick>
