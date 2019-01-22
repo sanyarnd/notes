@@ -19,7 +19,7 @@ GeoIPFile C:/Portable/tor/Data/Tor/geoip
 GeoIPv6File C:/Portable/tor/Data/Tor/geoip6
 ```
 
-4. Run as the service
+4. Run as admin the following code to regiqster Tor as system service (run at startup):
 ```
 C:\Portable\Tor\Tor\tor.exe --service install -options -f C:\Portable\Tor\Data\Tor\torrc
 ```
