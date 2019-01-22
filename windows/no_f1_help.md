@@ -16,5 +16,5 @@ REM group names depend on locale, i.e. "Everyone", "Все" etc
 icacls %WinDir%\HelpPane.exe /deny Everyone:(X)
 
 pause
-echo "Press any key to exit..."
 ```
+**WARNING!** cmd.exe requires specific encoding in case of non-english languages (e.g. `OEM-866` for Russian). Otherwise your group name will not be interpreted correctly.
