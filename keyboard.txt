@@ -1,7 +1,0 @@
-список доступных переключателей: grep "grp:.*toggle" /usr/share/X11/xkb/rules/base.lst
-
-Команда для установки:
-localectl set-x11-keymap "us,ru" a4techKB21 "" "grp:caps_toggle,grp_led:scroll"
-
-В GNOME:
-    dconf: input-sources/xkb-options

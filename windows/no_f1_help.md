@@ -1,3 +1,9 @@
+##### Disable annoying F1 button behaviour (open Help)
+
+Tweak and run the following .bat file:
+
+no_f1.bat:
+```bat
 @echo off
 
 REM kill the process just in case
@@ -11,3 +17,4 @@ icacls %WinDir%\HelpPane.exe /deny Everyone:(X)
 
 pause
 echo "Press any key to exit..."
+```

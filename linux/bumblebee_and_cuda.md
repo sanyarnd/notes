@@ -1,3 +1,13 @@
+##### How to enable NVIDIA GPU
+Check the status:
+```
+cat /proc/acpi/bbswitch
+```
+
+If it's off, you need to manually turn device on with writing `ON` to `/proc/acpi/bbswitch`. Also you can use script below:
+
+[cudarun](https://gitlab.com/Queuecumber/cudarun):
+```python
 #!/usr/bin/env python3
 
 import argparse
@@ -56,3 +66,4 @@ unload_nvidia_modules(args.verbose)
 
 if args.discrete:
     toggle_discrete('OFF', args.verbose)
+```
