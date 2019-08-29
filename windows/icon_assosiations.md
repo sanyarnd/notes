@@ -9,6 +9,6 @@ Here's `.reg` sample (don't forget provide application name, i.e. `notepad.exe` 
 ```reg
 Windows Registry Editor Version 5.00
 
-[HKEY_CLASSES_ROOT\Applications\notepad++.exe\DefaultIcon]
-@="%SystemRoot%\system32\imageres.dll,-102"
+[HKEY_CLASSES_ROOT\Applications\notepad.exe\DefaultIcon]
+@="%SystemRoot%\\system32\\imageres.dll,-102"
 ```
