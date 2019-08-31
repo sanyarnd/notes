@@ -1,7 +1,7 @@
-# Windows Tweaks
+# Linux Tweaks
 Collection of ad-hoc solution for annoying `Linux`'s behavior.
 
-- [Windows Tweaks](#windows-tweaks)
+- [Linux Tweaks](#linux-tweaks)
   - [Mounting](#mounting)
   - [Bumbleee and CUDA](#bumbleee-and-cuda)
   - [Faster AUR](#faster-aur)
@@ -27,7 +27,7 @@ Check the status:
 ```shell script
 cat /proc/acpi/bbswitch
 ```
-If it's off, turn device on by writing `ON` value to `/proc/acpi/bbswitch`. 
+If it's off, turn device on by writing `ON` value to `/proc/acpi/bbswitch`.
 
 To streamline the process, use [the following script](/files/cudarun), [author](https://gitlab.com/Queuecumber/cudarun).
 

@@ -105,7 +105,7 @@ Cross-platform distribution, available [here](https://github.com/PowerShell/Powe
 
 
 ## ZSH
-1. Install ZSH:
+1. Install `Oh My ZSH`:
     ```shell script
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
     ```
