@@ -106,7 +106,7 @@ Rename queries:
 
 ## Picard
 Rename query:
-```taggerscript
+```php
 $replace($rreplace(
 $if($eq(%albumartist%,Various Artists),
         [Various Artists],
