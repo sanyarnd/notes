@@ -19,43 +19,7 @@ Collection of configuration files for programs with steep setup curve.
     browser.tabs.closeWindowWithLastTab=false
     dom.webnotifications.enabled=false
     ```
-* Addon list:
-    * https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/
-    * https://addons.mozilla.org/en-US/firefox/addon/cliget/
-    * https://addons.mozilla.org/en-US/firefox/addon/cookiebro/
-    * https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
-    * https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
-    * https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/
-    * https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix/
-    * https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
-    * https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/
-    * https://addons.mozilla.org/en-US/firefox/addon/personal-blocklist/
-
-        Configuration:
-        ```
-        coredump.guru
-        coredump.ist
-        coredump.one
-        coredump.pt
-        coredump.ro
-        coredump.su
-        coredump.tech
-        coredump.uno
-        devask.cz
-        devask.gr
-        devask.in
-        devask.nl
-        frageit.de
-        itkerdes.com
-        itproblemy.pl
-        qaru.site
-        ```
-    * https://addons.mozilla.org/en-US/firefox/addon/pure-url/
-    * https://addons.mozilla.org/en-US/firefox/addon/image-reverse-search/
-    * https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/
-    * https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/
-    * https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-    * https://addons.mozilla.org/en-US/firefox/addon/umatrix/
+* For addon list see [Program Addons](ProgramAddons.md)
 
 ## QTTabBar
 My default config for [QTTabBar](http://qttabbar.wikidot.com/), available [here](/files/QTTabBarConfig.xml). Use `Import settings` feature.
