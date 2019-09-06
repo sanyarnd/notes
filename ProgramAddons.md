@@ -1,5 +1,23 @@
-# Firefox addons
+# Program addons
 
+## IntelliJ IDEs
+* .env file support
+* .ignore
+* Advanced Java Folding
+* Batch Scripts Support
+* CheckStyle
+* CMD Support
+* Grep Console
+* Ini
+* Kotlin
+* Lombok
+* Native Terminal
+* PowerShell
+* PVS-Studio
+* Statistic
+* String Manipulation
+
+## Firefox addons
 * Absolute Right click
 * cliget
 * cookiebro
