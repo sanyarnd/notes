@@ -5,6 +5,7 @@ Collection of ad-hoc solution for annoying `Windows`' behavior.
   - [Disable F1 help](#disable-f1-help)
   - [Switch input methods hotkey](#switch-input-methods-hotkey)
   - [Change text editor icon](#change-text-editor-icon)
+  - [Disable Windows 10 automatic updates](#disable-windows-10-automatic-updates)
 
 
 ## Disable F1 help
@@ -19,7 +20,6 @@ _NB: `cmd.exe` requires specific `.bat` encoding for non-english locales (e.g. `
 Verify that Windows settings for switching are `Alt+Shift`.
 
 
-
 ## Change text editor icon
 Use default `Windows` icon of text files for all editor-assosiated extensions.
 1. Create the new key in [the registry](/files/textEditorIcon.reg) (you can provide your own application name instead, e.g. `notepad++.exe`)
@@ -27,3 +27,10 @@ Use default `Windows` icon of text files for all editor-assosiated extensions.
     ```bat
     C:\Windows\system32\ie4uinit.exe -show
     ```
+
+
+## Disable Windows 10 automatic updates
+1. Navigate to `Start` and run `gpedit.msc`
+2. Navigate to `Computer Configuration` -> `Administrative Templates` -> `Windows Components` -> `Windows Update`
+3. Select `Configure Automatic Updates`
+4. Click on `Enable` and set value to `2` in the dropdown box below
