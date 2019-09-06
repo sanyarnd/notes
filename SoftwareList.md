@@ -1,20 +1,22 @@
 # Software list
 
+
 - [Software list](#software-list)
-  - [Development](#development)
-  - [Encryption and security](#encryption-and-security)
-  - [Fonts](#fonts)
-  - [Game software](#game-software)
-  - [Handcraft](#handcraft)
-  - [Internet](#internet)
+  - [Windows](#windows)
+    - [Development](#development)
+    - [Encryption and security](#encryption-and-security)
+    - [Fonts](#fonts)
+    - [Game software](#game-software)
+    - [Handcraft](#handcraft)
+    - [Internet](#internet)
+    - [Media](#media)
+    - [Office](#office)
+    - [Operation Systems ISOs](#operation-systems-isos)
+    - [System](#system)
   - [Linux](#linux)
-  - [Media](#media)
-  - [Office](#office)
-  - [Operation Systems ISOs](#operation-systems-isos)
-  - [System](#system)
 
-
-## Development
+## Windows
+### Development
 * CMake
 * CUDA
 * JetBrains Toolbox
@@ -60,12 +62,12 @@
 * Unity3D
 * Unreal Engine
 
-## Encryption and security
+### Encryption and security
 * KeePassXC
 * GPG
 
 
-## Fonts
+### Fonts
 * Fira Code
 * DejaVu
 * Free Font
@@ -87,7 +89,7 @@
 * Suitcase Fusion
 
 
-## Game software
+### Game software
 * Cheat Engine
 * Epic Launcher
 * Origin
@@ -124,11 +126,11 @@
 * CheMAX
 
 
-## Handcraft
+### Handcraft
 * Pepakura Designer
 * PCStich
 
-## Internet
+### Internet
 * Firefox
 * Chromium Launcher
 * Yandex Disk
@@ -147,16 +149,12 @@
 * Google Drive
 * mIRC
 * HexChat
-*
+* gallery-dl
+* youtube-dl
+* ripme
+* instaloader
 
-## Linux
-* CrossOver
-* pacaur + pac
-* nethogs
-* fsearch
-
-
-## Media
+### Media
 * Photoshop
 * Illustrator
 * InkScape
@@ -200,8 +198,9 @@
 * madVR
 * RAD Tools
 * Share X
+* Dupe Guru
 
-## Office
+### Office
 * GoldenDict
 * Language Tool
 * Yarxi
@@ -219,7 +218,7 @@
 * Sumatra PDF
 
 
-## Operation Systems ISOs
+### Operation Systems ISOs
 * Kali
 * Mint
 * Ubuntu
@@ -227,7 +226,7 @@
 * Windows 10
 * System Rescue CD
 
-## System
+### System
 * AVZ
 * Flux / redshift
 * WSCC
@@ -277,3 +276,38 @@
 * VirtualBox
 * VMWare Workstation
 * Sandboxie
+
+
+## Linux
+* CrossOver
+* pacaur + pac
+* nethogs
+* fsearch
+
+
+
+ditto
+Telegram Desktop
+WhatsApp Desktop
+Slack
+Ditto
+WSL
+flux
+VK messanger
+WSL
+Sysinternals Suite
+www.ext2fsd.com
+zsh
+onlyoffice
+openoffice
+Camtasia
+RegCool
+Duplicate & Same Files Searcher
+Avidemux
+Pinga
+Duplicati
+Insomnia
+Mailspring
+Rainmeter
+rufus
+PDF Shaper
