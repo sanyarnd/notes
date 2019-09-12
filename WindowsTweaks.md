@@ -9,9 +9,9 @@ Collection of ad-hoc solution for annoying `Windows`' behavior.
 
 
 ## Disable F1 help
-Run the [script](/files/disableF1.bat).
-
-_NB: `cmd.exe` requires specific `.bat` encoding for non-english locales (e.g. `OEM-866` for Russian). Save the script with corresponding encoding, otherwise it won't work._
+Before run the [script](/files/disableF1.bat), please read the following:
+* You need to modify the specific part of the script (see the script itself)
+* `cmd.exe` requires specific `.bat` encoding for non-english locales (e.g. `OEM-866` for Russian). Save the script with corresponding encoding, otherwise it won't work.
 
 
 ## Switch input methods hotkey
