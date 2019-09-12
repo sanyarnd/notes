@@ -1,7 +1,7 @@
 # Software list
 Most of the software in the list is free and open source. If software has limitations, e.g. free personal use, then it will be marked as such:
 * 🆓 - free for commercial use;
-* 💲  - free for personal use;
+* 💲 - free for personal use;
 * 💰 - no free version.
 
 - [Software list](#software-list)
@@ -31,54 +31,75 @@ Most of the software in the list is free and open source. If software has limita
   - [Handcraft](#handcraft)
   - [Internet](#internet)
     - [Browsers](#browsers)
-    - [Storage](#storage)
-    - [Downloaders](#downloaders)
     - [Communication](#communication)
+    - [Downloaders](#downloaders)
     - [Mail](#mail)
-    - [Data hoarding](#data-hoarding)
-    - [Servers](#servers)
     - [Network analysis](#network-analysis)
+    - [Data hoarding](#data-hoarding)
+      - [Scrappers](#scrappers)
+      - [Site downloaders](#site-downloaders)
+    - [Servers](#servers)
+    - [Storage](#storage)
   - [Media](#media)
     - [2D](#2d)
       - [Editors](#editors-1)
       - [Viewers](#viewers)
+      - [Other](#other)
     - [3D](#3d)
     - [Audio](#audio)
     - [Screenshots and screen recording](#screenshots-and-screen-recording)
     - [Video](#video)
   - [Office](#office)
+    - [Dictionaries](#dictionaries)
+    - [LaTeX](#latex)
+    - [Office packages](#office-packages)
+    - [PDF](#pdf)
+    - [Other](#other-1)
   - [Operation Systems ISOs](#operation-systems-isos)
   - [System](#system)
-    - [Duplicate Search](#duplicate-search)
+    - [Achievers and file managers](#achievers-and-file-managers)
+    - [CD, HDD and USB](#cd-hdd-and-usb)
+    - [Cleaners](#cleaners)
+    - [Desktop environment enhancers](#desktop-environment-enhancers)
+    - [Duplicate files search](#duplicate-files-search)
+    - [Hardware info and monitoring](#hardware-info-and-monitoring)
+    - [Remote](#remote)
+    - [Registry and process editors](#registry-and-process-editors)
+    - [Software runtimes](#software-runtimes)
+    - [Terminals](#terminals)
+    - [Tools collection](#tools-collection)
+    - [Virtualization](#virtualization)
+    - [Other](#other-2)
   - [Linux](#linux)
 
 
 ## Development
 ### Editors
-* [HxD](https://mh-nexus.de/en/hxd/) 🆓 - fast hex editor with raw disk and RAM editing, handles files of any size.
-* [Notepad Replacer](https://www.binaryfortress.com/NotepadReplacer/) 🆓 - replace the default Windows version of Notepad with whatever alternative you would like to use.
-* [Notepad++](https://notepad-plus-plus.org/) 🆓 - source code editor and Notepad replacement that supports several languages.
-* [Sublime Text 3](https://www.sublimetext.com/3) 💰 - sophisticated text editor for code, markup and prose.
-* [Visual Studio Code](https://code.visualstudio.com) 🆓 - source-code editor developed by Microsoft for Windows, Linux and macOS.
+* [HxD](https://mh-nexus.de/en/hxd/) 🆓 - hex editor with raw disk and RAM editing support.
+* [Notepad Replacer](https://www.binaryfortress.com/NotepadReplacer/) 🆓 - replace the default `Notepad` with any editor, e.g. `Notepad++`.
+* [Notepad++](https://notepad-plus-plus.org/) 🆓 - simply great, must be default replacement for `Notepad`.
+* [Sublime Text 3](https://www.sublimetext.com/3) 💰 - fast, has more features than `Notepad++`, can replace IDE in some cases.
+* [Visual Studio Code](https://code.visualstudio.com) 🆓 - a good (but slower) alternative to `Sumtime Text`. Has more plugins. See [this](ProgramAddons.md) for addon list.
 
 ### IDE
-* [JetBrains Toolbox](https://www.jetbrains.com/toolbox/app/) 🆓 - manage all IntelliJ tools and projects.
-* [RStudio](https://github.com/rstudio/rstudio) 🆓 - integrated development environment for R.
-* [Visual Studio](https://visualstudio.microsoft.com/) 💲 - is an IDE from Microsoft. Supports 36+ different languages.
+* [JetBrains Toolbox](https://www.jetbrains.com/toolbox/app/) 🆓 - manage all `IntelliJ` products and projects from one place.
+* [RStudio](https://github.com/rstudio/rstudio) 🆓 - integrated development environment for `R`.
+* [Visual Studio](https://visualstudio.microsoft.com/) 💲 - good IDE with support for many languages, has great debugger `C/C++` debugger.
 
 ### Version Control
 * [Git](https://git-scm.com/) 🆓 - free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-* [GitExtensions](https://github.com/gitextensions/gitextensions) 🆓 - standalone UI tool for managing git repositories. Integrates with Windows Explorer and Microsoft Visual Studio.
+* [GitExtensions](https://github.com/gitextensions/gitextensions) 🆓 - `git` GUI client for `Windows`.
+* [Fork](https://git-fork.com/) 🆓 - very polished and slick client for `git`.
 
 ### Languages and frameworks
 * [CUDA](https://developer.nvidia.com/cuda-downloads) 🆓 - provides a development environment for creating high performance GPU-accelerated applications.
-* [Microsoft R Open](https://mran.microsoft.com/open) 🆓 - the enhanced distribution of R from Microsoft. It is a complete open source platform for statistical analysis and data science.
+* [Microsoft R Open](https://mran.microsoft.com/open) 🆓 - the enhanced distribution of R from Microsoft focused on parallelization.
 * [Node.js](https://nodejs.org/en/) 🆓 - JavaScript runtime built on Chrome's V8 JavaScript engine.
-* [PascalABC.NET](http://pascalabc.net/) 🆓 - the new generation Pascal programming language that combines simplicity of classic Pascal, a great number of modern extensions and broad capabilities of Microsoft .NET Framework.
-* [Python](https://www.python.org/  ) 🆓 - a programming language that lets you work quickly and integrate systems more effectively.
+* [PascalABC.NET](http://pascalabc.net/) 🆓 - Pascal programming language enhanced by .NET Framework.
+* [Python](https://www.python.org/) 🆓 - a programming language that lets you work quickly and integrate systems more effectively.
 * [Qt](https://www.qt.io) 🆓 - is a free and open-source widget toolkit for creating graphical user interfaces as well as cross-platform applications.
-* [Rust](https://www.rust-lang.org) 🆓 - is a multi-paradigm system programming language focused on safety, especially safe concurrency.
-* [Stack](https://www.haskellstack.org) 🆓 - a cross-platform program for developing Haskell projects.
+* [Rust](https://www.rust-lang.org) 🆓 - a multi-paradigm system programming language focused on safety, especially safe concurrency.
+* [Stack](https://www.haskellstack.org) 🆓 - a platform for managing and developing Haskell projects.
 
 ### Build Tools
 * [CMake](https://cmake.org) 🆓 - an open-source, cross-platform family of tools designed to build, test and package software.
@@ -140,243 +161,282 @@ Most of the software in the list is free and open source. If software has limita
 
 ## Game software
 ### Game Launchers
-* Battle.NET
-* Epic Launcher
-* GOG Galaxy
-* Origin
-* Steam
-* Uplay
+* [Battle.NET](https://www.blizzard.com/en-us/apps/battle.net/desktop) 🆓 - game client from Bilzzard and Activision.
+* [Epic Launcher](https://www.epicgames.com/) 🆓 - game client from Epic Games.
+* [GOG Galaxy](https://www.gog.com/galaxy) 🆓 - game client from GOG.
+* [Origin](https://www.origin.com/) 🆓 - game client from EA.
+* [Steam](https://store.steampowered.com/) 🆓 - game client from Valve.
+* [Uplay](https://uplay.ubisoft.com/) 🆓 - game client from Ubisoft.
 
 ### Drivers
-* Scp Toolkit
+* [Scp Toolkit](https://github.com/nefarius/ScpToolkit) 🆓 - adds support for different game console controllers, like PS2 or PS3 DualShock.
 
 ### Cheating
-* ArtMoney
-* Cheat Engine
-* Chemax
-* Steam Achievement Manager
+* [Cheat Engine](https://www.cheatengine.org) 🆓 - open source tool designed to help you with modifying single player games, contains useful tools to help debugging games and even normal applications, and helps you protect your system by letting you inspect memory modifications by backdoors and even contains some ways to unhide them from conventional means.
+* [Chemax](https://chemax.ru/cheat) 🆓 - cheat codes database.
+* [Steam Achievement Manager](https://github.com/gibbed/SteamAchievementManager) 🆓 - lock and unlock steam achievements.
 
 ### Emulators
-* CEMU
-* Dolphin
-* ePSXe
-* PCSX2
-* RPCS3
+* [CEMU](https://cemu.info/) 🆓 - `Wii U` emulator.
+* [Dolphin](https://dolphin-emu.org/) 🆓 - `Wii` emulator.
+* [ePSXe](https://www.epsxe.com/) 🆓 - `PSP` emulator.
+* [PCSX2](https://pcsx2.net) 🆓 - `PS2` emulator.
+* [RPCS3](https://rpcs3.net/) 🆓 - `PS3` emulator.
 
 ### Game data extractors and rippers
-* 3DX RipperDX
-* ArkTool
-* GCFScape
-* NifScope
-* Ninja Ripper
-* Noesis
-* QuickBMS
-* UModel
-* VTFEdit
+* [3DX RipperDX](http://www.deep-shadows.com/hax/3DRipperDX.htm) 🆓 - capture models and textures from `DirectX 9` applications.
+* [Nem's Tools](http://nemesis.thewavelength.net/) 🆓 - collection of programs (extractors, editors) for Valve games.
+* [NifScope](http://niftools.sourceforge.net/wiki/NifSkope) 🆓 - open and edit `.nif` files.
+* [Ninja Ripper](http://cgig.ru/ninjaripper/) 🆓 -  capture models and textures from `DirectX 9-11` applications.
+* [Noesis](https://richwhitehouse.com/index.php?content=inc_projects.php) 🆓 - tool for previewing and converting between hundreds of model, image, and animation formats.
+* [QuickBMS](https://aluigi.altervista.org/quickbms.htm) 🆓 - files extractor and reimporter, archives and file formats parser, advanced tool for reverse engineers and power users, and much more.
+* [RAD Video Tools](http://www.radgametools.com/) 🆓 - video player for Bink 2 video format.
+* [UModel](https://www.gildor.org/en/projects/umodel) 🆓 - program for viewing and extracting resources from various games made with Unreal Engine. Sometimes the program is referenced as "umodel", the short of "unreal" and "model viewer".
 
 
 ## Handcraft
 * [Pepakura Designer](https://tamasoft.co.jp/pepakura-en/index.html) 💰 - Pepakura Designer is a Windows application which makes unfolded patterns from 3D data, which allows you to create real paper craft models from digital data.
 
+
 ## Internet
 ### Browsers
-* Chromium Launcher
-* Firefox
-* Tor
-
-### Storage
-* Dropbox
-* ExpanDrive
-* Google Drive
-* Yandex Disk
-
-### Downloaders
-* Internet Download Manager
-* qBittorrent
+* [Chromium](https://chromium.woolyss.com) 🆓 - free open-source web browser developed by `Google`.
+* [Firefox](https://www.mozilla.org/en-US/firefox/all/) 🆓 - free open-source web browser developed by `Mozilla Corporation`.
+* [Tor](https://www.torproject.org) 🆓 - free and open-source software for enabling anonymous communication. See [this](SoftwareConfigurations.md) for configuration outside of `Tor Browser`.
 
 ### Communication
-* Discord
-* Hex Chat
-* mIRC
-* Slack
-* Telegram Desktop
-* WhatsApp Desktop
-* VK messanger
+* [Discord](https://discordapp.com/) 🆓 -
+* [HexChat](https://hexchat.github.io/) 🆓 -
+* [Slack](https://slack.com/) 💲 -
+* [Telegram](https://github.com/telegramdesktop/tdesktop) 🆓 -
+* [WhatsApp](https://www.whatsapp.com/) 🆓 -
+* [VK messanger](https://vk.com/messenger) 🆓 -
+
+### Downloaders
+* [Internet Download Manager](https://www.internetdownloadmanager.com/) 💰 -
+* [qBittorrent](https://www.qbittorrent.org/) 🆓 -
 
 ### Mail
-* Mail for Windows
-* Thunderbird
-
-### Data hoarding
-* gallery-dl
-* instaloader
-* Offline Explorer
-* ripme
-* youtube-dl
-
-### Servers
-* HFS
+* [Mail for Windows](https://www.microsoft.com/en-us/p/mail-and-calendar/9wzdncrfhvqm/) 🆓 -
+* [Thunderbird](https://www.thunderbird.net/) 🆓 -
 
 ### Network analysis
-* Wireshark
+* [Wireshark](https://www.wireshark.org) 🆓 -
+
+### Data hoarding
+#### Scrappers
+* [flickr-download](https://github.com/beaufour/flickr-download) 🆓 -
+* [gallery-dl](https://github.com/mikf/gallery-dl) 🆓 -
+* [google-images-download](https://github.com/hardikvasa/google-images-download) 🆓 -
+* [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) 🆓 -
+* [instagram-scrapper](https://github.com/rarcega/instagram-scraper) 🆓 -
+* [instaloader](https://github.com/instaloader/instaloader) 🆓 -
+* [instaLooter](https://github.com/althonos/InstaLooter) 🆓 -
+* [RedditDownloader](https://github.com/shadowmoose/RedditDownloader) 🆓 -
+* [ripme](https://github.com/RipMeApp/ripme) 🆓 -
+* [youtube-dl](https://github.com/ytdl-org/youtube-dl) 🆓 -
+
+#### Site downloaders
+* [ArchiveBox](https://github.com/pirate/ArchiveBox) 🆓 -
+* [Heritrix3](https://github.com/internetarchive/heritrix3) 🆓 -
+* [HTTrack](https://www.httrack.com/) 🆓 -
+
+### Servers
+* [HFS](https://www.rejetto.com/hfs/) 🆓 -
+
+### Storage
+* [Dropbox](https://www.dropbox.com/) 💲 -
+* [ExpanDrive](https://www.expandrive.com) 💰 -
+* [Google Drive](https://www.google.com/drive/) 💲 -
+* [Yandex Disk](https://disk.yandex.ru/) 💲 -
+* [Mega](https://mega.nz/) 💲 -
 
 
 ## Media
 ### 2D
 #### Editors
-* Adobe Illustrator
-* Adobe Photoshop
-* Affinity Designer
-* Affinity Photo
-* GIMP
-* InkScape
-* Krita
-* Paint Tool SAI
-* Paint.NET
-* Фото на Документы
+* [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) 💰 -
+* [Affinity Designer](https://affinity.serif.com/en-us/designer/) 💰 -
+* [Affinity Photo](https://affinity.serif.com/en-us/photo/) 💰 -
+* [GIMP](https://www.gimp.org/) 🆓 -
+* [InkScape](https://inkscape.org/) 🆓 -
+* [Krita](https://krita.org) 🆓 -
+* [Paint Tool SAI](http://www.systemax.jp/en/sai/) 💰 -
+* [Paint.NET](https://www.getpaint.net/) 🆓 -
+* [Фото на Документы](http://photo-document.ru/) 💰 -
+
 #### Viewers
-* Nomacs
-* IrfanView
-* Pinga
+* [Nomacs](https://nomacs.org/) 🆓 -
+* [IrfanView](https://www.irfanview.com/) 💲 -
+
+#### Other
+* [Pinga](https://css-ig.net/pingo) 🆓 -
 
 ### 3D
-* 3D-Coat
-* Autodesk Maya
-* Blender
-* Houdini FX
-* Magica Voxel
-* Marmoset Toolbag
-* Marvelous Designer
-* MOI 3D
-* NextLimit RealFlow
+* [3DCoat](https://3dcoat.com/) 💰 -
+* [Autodesk Maya](https://www.autodesk.com/products/maya/overview) 💰 -
+* [Blender](https://www.blender.org/) 🆓 -
+* [MagicaVoxel](https://ephtracy.github.io/) 🆓 -
+* [Marvelous Designer](https://www.marvelousdesigner.com/) 💰 -
+* [MOI 3D](http://moi3d.com/) 💰 -
+* [NextLimit RealFlow](http://www.nextlimit.com/realflow/) 💰 -
+* [SideFX Houdini](https://www.sidefx.com/products/houdini/) 💰 -
+* [Substance](https://www.substance3d.com/) 💰 - ecosystem of tools and content dedicated to 3D materials.
 
 ### Audio
-* AIMP
-* Audacity
-* Cue Tools
-* FL Studio
-* Foobar
-* Oceanaudio
-* Picard
-* TagScan
-* Vocaloid
+* [AIMP](http://www.aimp.ru/) 🆓 -
+* [Audacity](https://www.audacityteam.org/) 🆓 -
+* [CUETools](http://cue.tools/wiki/CUETools_Download) 🆓 -
+* [FL Studio](https://www.image-line.com/flstudio/) 💰 -
+* [Foobar](https://www.foobar2000.org/) 🆓 -
+* [Oceanaudio](https://www.ocenaudio.com) 🆓 -
+* [Picard](https://picard.musicbrainz.org/) 🆓 -
+* [TagScanner](https://www.xdlab.ru/) 🆓 -
+* [Vocaloid](www.vocaloid.com/en/) 💰 -
 
 ### Screenshots and screen recording
-* Camtasia
-* Captura
-* FastStone Capture
-* OBS Studio
-* Share X
+* [Captura](https://github.com/MathewSachin/Captura) 🆓 -
+* [FastStone Capture](https://www.faststone.org/FSCaptureDetail.htm) 🆓 -
+* [Flameshot](https://github.com/lupoDharkael/flameshot) 🆓 -
+* [OBS Studio](https://obsproject.com/) 🆓 -
+* [Share X](https://getsharex.com/) 🆓 -
+* [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) 🆓 -
+* [TechSmith Camtasia](https://www.techsmith.com/video-editor.html) 💰 -
 
 ### Video
-* Avidemux
-* FFMpeg
-* MPV
-* VLC
-* KDenlive
-* FLV Extract
-* MKV Toolnix
-* VSDC
-* Subtitle Edit
-* madVR
-* RAD Tools
+* [Avidemux](http://avidemux.sourceforge.net/) 🆓 -
+* [FFMpeg](https://ffmpeg.org/) 🆓 -
+* [FLV Extract](https://www.moitah.net/) 🆓 -
+* [Kdenlive](https://kdenlive.org) 🆓 -
+* [MKV Toolnix](https://mkvtoolnix.download/) 🆓 -
+* [mpv](https://mpv.io/) 🆓 -
+* [ShotCut](https://www.shotcut.org/) 🆓 -
+* [Subtitle Edit](https://www.nikse.dk/subtitleedit) 🆓 -
+* [VLC](https://www.videolan.org/vlc/index.html) 🆓 -
+* [VSDC Free Video Editor](http://www.videosoftdev.com/) 🆓 -
 
 
 ## Office
-* GoldenDict
-* Language Tool
-* Yarxi
-* Open Office Dictionaries
-* TexLive
-* TeX Studio
-* Libre Office
-* onlyoffice
-* openoffice
-* Microsoft Office
-* FileBot
-* Calibre
-* WinDjView
-* Acrobat
-* Fine Reader
-* PdfTk Builder
-* Sumatra PDF
-* PDF Shaper
-* GhostScript
+### Dictionaries
+* [GoldenDict](https://github.com/goldendict/goldendict) 🆓 -
+* [Language Tool](https://languagetool.org/) 🆓 -
+* [Open Office Dictionaries](https://extensions.openoffice.org/) 🆓 -
+* [Yarxi](http://www.yarxi.ru/) 🆓 -
+
+### LaTeX
+* [TeX Studio](https://www.texstudio.org/) 🆓 -
+* [TexLive](https://www.tug.org/texlive/) 🆓 -
+
+### Office packages
+* [Apache OpenOffice](https://www.openoffice.org/) 🆓 -
+* [Libre Office](https://libreoffice.org/) 🆓 -
+* [Microsoft Office](https://products.office.com/) 💰 -
+* [OnlyOffice](https://www.onlyoffice.com/) 🆓 -
+
+### PDF
+* [ABBYY Fine Reader](https://www.abbyy.com/en-us/finereader/) 💰 -
+* [Adobe Acrobat](https://acrobat.adobe.com/us/en/) 💰 -
+* [PDF Shaper](http://www.pdfshaper.com/) 💲 -
+* [PdfTk Builder](http://www.angusj.com/pdftkb/) 🆓 -
+* [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) 🆓 -
+
+### Other
+* [Calibre](https://calibre-ebook.com) 🆓 -
+* [FileBot](https://www.filebot.net/) 💰 -
+* [GhostScript](https://www.ghostscript.com/) 🆓 -
+* [WinDjView](https://windjview.sourceforge.io/) 🆓 -
 
 
 ## Operation Systems ISOs
-* Kali
-* Mint
-* Ubuntu
-* Tails
-* Windows 10
-* System Rescue CD
+* [Kali Linux](https://www.kali.org/) 🆓 -
+* [Linux Mint](https://www.linuxmint.com/) 🆓 -
+* [System Rescue CD](http://www.system-rescue-cd.org/) 🆓 -
+* [Tails](https://tails.boum.org/) 🆓 -
+* [Ubuntu](https://ubuntu.com/) 🆓 -
+* [Windows 10](https://www.microsoft.com/en-us/software-download/windows10) 💰 -
 
 ## System
-### Duplicate Search
-* Dupe Guru
+### Achievers and file managers
+* [7-zip](https://sourceforge.net/projects/sevenzip/) 🆓 -
+* [Far](https://www.farmanager.com/) 🆓 -
+* [Midnight Commander](https://midnight-commander.org/) 🆓 -
+* [QTTabBar](http://qttabbar.wikidot.com/) 🆓 -
+* [WinRAR](https://www.rarlab.com/) 💰 -
 
-* AVZ
-* Flux / redshift
-* WSCC
-* 7-zip
-* WinRAR
-* Ext2Fsd
-* CDBurnXP
-* Rufus
-* WinCD Emu
-* Far / midnight commander
-* QTTabBar
-* Crystal Disk Info
-* R-saver
-* R-Studio
-* Testdisk
-* QuickTime
-* Adobe AIR
-* Adobe Flash
-* OpenAL
-* DirectX
-* Visual C++
-* Ditto
-* CPU-Z
-* GPU-Z
-* hwinfo
-* Anydesk
-* Clink
-* ConEmu
-* mRemoteNG
-* Putty
-* TeamViewer
-* WinSCP
-* EasyUEFI
-* AIDA
-* AltDrag
-* AutoHotKey
-* BRU
-* CCleaner
-* Classic Shell
-* Everything
-* Process Hacker
-* Rapid Environment Editor
-* Registry Workshop
-* registryfinder
-* oo regeditor
-* Uninstall Tool
-* WinAero Tweaker
-* WinDirStat
-* KMS Tools
-* VirtualBox
-* VMWare Workstation
-* Sandboxie
-* WSL
-* Sysinternals Suite / WSCC
-* www.ext2fsd.com
-* Duplicati
-* Rainmeter
-* bleachbit
+### CD, HDD and USB
+* [CDBurnerXP](https://cdburnerxp.se/) 🆓 -
+* [Duplicati](https://www.duplicati.com) 🆓 -
+* [Ext2Fsd](https://sourceforge.net/projects/ext2fsd/) 🆓 -
+* [R-saver](https://rlab.ru/tools/rsaver.html) 🆓 -
+* [R-Studio](https://www.r-studio.com/) 🆓 -
+* [Testdisk](https://www.cgsecurity.org/wiki/TestDisk) 🆓 -
+* [Rufus](https://rufus.ie) 🆓 -
+* [WinCDEmu](https://wincdemu.sysprogs.org/) 🆓 -
+
+### Cleaners
+* [bleachbit](https://www.bleachbit.org) 🆓 -
+* [CCleaner](https://www.ccleaner.com/) 💲 -
+* [Uninstall Tool](https://www.crystalidea.com/uninstall-tool) 💰 -
+
+### Desktop environment enhancers
+* [AltDrag](https://stefansundin.github.io/altdrag/) 🆓 -
+* [AutoHotKey](https://www.autohotkey.com/) 🆓 -
+* [Classic Shell](http://www.classicshell.net/) 🆓 -
+* [Ditto](https://ditto-cp.sourceforge.io/) 🆓 -
+* [Everything](https://www.voidtools.com/) 🆓 -
+* [f.lux](https://justgetflux.com/) 🆓 -
+* [Rainmeter](https://www.rainmeter.net/) 🆓 -
+* [Redshift](http://jonls.dk/redshift/) 🆓 -
+* [WinAero Tweaker](https://winaero.com/comment.php?comment.news.1836) 🆓 -
+
+### Duplicate files search
+* [dupeGuru](https://dupeguru.voltaicideas.net/) 🆓 -
+
+### Hardware info and monitoring
+* [AIDA](https://www.aida64.com/) 💰 -
+* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) 🆓 -
+* [HWiNFO](https://www.hwinfo.com/) 🆓 -
+
+### Remote
+* [Anydesk](https://anydesk.com/) 💲 -
+* [mRemoteNG](https://mremoteng.org/) 🆓 -
+* [TeamViewer](https://www.teamviewer.com/) 💲 -
+* [WinSCP](https://winscp.net/eng/download.php) 🆓 -
+
+### Registry and process editors
+* [O&O RegEditor](https://www.oo-software.com/en/ooregeditor) 🆓 -
+* [Process Hacker](https://processhacker.sourceforge.io/) 🆓 -
+* [Rapid Environment Editor](https://www.rapidee.com/) 🆓 -
+* [Registry Finder](http://registry-finder.com/) 🆓 -
+* [Registry Workshop](http://www.torchsoft.com/en/rw_information.html) 💰 -
+
+### Software runtimes
+* [Adobe AIR](https://get.adobe.com/air/) 🆓 -
+* [Adobe Flash](https://get.adobe.com/flashplayer/) 🆓 -
+* [QuickTime](https://support.apple.com/kb/DL837) 🆓 -
+
+### Terminals
+* [Clink](https://mridgers.github.io/clink/) 🆓 -
+* [ConEmu](https://conemu.github.io/) 🆓 -
+* [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) 🆓 -
+
+### Tools collection
+* [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) 🆓 -
+* [WSCC](https://www.kls-soft.com/wscc/) 🆓 -
+
+### Virtualization
+* [Sandboxie](https://www.sandboxie.com/) 💰 -
+* [VirtualBox](https://www.virtualbox.org/) 🆓 -
+* [VMWare Workstation](https://www.vmware.com/products/workstation-pro.html) 💰 -
+
+### Other
+* [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Download.php) 💲 -
+* [EasyUEFI](https://www.easyuefi.com/index-us.html) 💰 -
+* [KMS Tools](http://forum.ru-board.com/topic.cgi?amp&forum=2&topic=5328) 🆓 -
+* [WinDirStat](https://windirstat.net/) 🆓 -
 
 
 ## Linux
 * [FSearch](https://github.com/cboxdoerfer/fsearch) 🆓 - linux alternative to `Everything`.
 * [CrossOver](https://www.codeweavers.com/products) 💰 - commercial `Wine`.
-* [Oh My ZSH](https://ohmyz.sh/) 🆓 - open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins and themes. See [this](SoftwareConfigurations.md) for configuration.
+* [Oh My ZSH](https://ohmyz.sh/) 🆓 - framework for managing `Zsh` settings. See [this](SoftwareConfigurations.md) related document for configuration instructions.
