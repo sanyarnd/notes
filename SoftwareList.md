@@ -80,6 +80,7 @@ Most of the software in the list is free and open source. If software has limita
 * [Notepad++](https://notepad-plus-plus.org/) 🆓 - simply great, must be default replacement for `Notepad`.
 * [Sublime Text 3](https://www.sublimetext.com/3) 💰 - fast, has more features than `Notepad++`, can replace IDE in some cases.
 * [Visual Studio Code](https://code.visualstudio.com) 🆓 - a good (but slower) alternative to `Sumtime Text`. Has more plugins. See [this](SoftwareAddons.md) for addon list.
+* [Jupyter](https://jupyter.org/) 🆓 - web-based IDE for Data Science.
 
 ### IDE
 * [JetBrains Toolbox](https://www.jetbrains.com/toolbox/app/) 🆓 - manage all `IntelliJ` products and projects from one place.
@@ -205,14 +206,15 @@ Most of the software in the list is free and open source. If software has limita
 * [Tor](https://www.torproject.org) 🆓 - free and open-source software for enabling anonymous communication. See [this](SoftwareConfigurations.md) for configuration outside of `Tor Browser`.
 
 ### Communication
-* [Discord](https://discordapp.com/) 🆓 -
-* [HexChat](https://hexchat.github.io/) 🆓 -
-* [Slack](https://slack.com/) 💲 -
-* [Telegram](https://github.com/telegramdesktop/tdesktop) 🆓 -
-* [WhatsApp](https://www.whatsapp.com/) 🆓 -
-* [VK messanger](https://vk.com/messenger) 🆓 -
+* [Discord](https://discordapp.com/) 🆓 - voice messaging application with multi-video calls.
+* [HexChat](https://hexchat.github.io/) 🆓 - `IRC` client.
+* [Slack](https://slack.com/) 💲 - massive (thousands of users in one chat) messaging app, mostly oriented on IT market.
+* [Telegram](https://github.com/telegramdesktop/tdesktop) 🆓 - fast and reliable messanger.
+* [WhatsApp](https://www.whatsapp.com/) 🆓 - convinient way to use `WhatsApp` on Desktop.
+* [VK messanger](https://vk.com/messenger) 🆓 - standalone messanger application for vk.com site.
 
 ### Downloaders
+* [Free Download Manager](https://www.freedownloadmanager.org/) 💰 -
 * [Internet Download Manager](https://www.internetdownloadmanager.com/) 💰 -
 * [qBittorrent](https://www.qbittorrent.org/) 🆓 -
 
@@ -221,7 +223,7 @@ Most of the software in the list is free and open source. If software has limita
 * [Thunderbird](https://www.thunderbird.net/) 🆓 -
 
 ### Network analysis
-* [Wireshark](https://www.wireshark.org) 🆓 -
+* [Wireshark](https://www.wireshark.org) 🆓 -  packet analyzer, used for network troubleshooting, analysis, software and communications protocol development.
 
 ### Data hoarding
 #### Scrappers
