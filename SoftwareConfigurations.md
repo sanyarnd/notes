@@ -19,7 +19,7 @@ Collection of configuration files for programs with steep setup curve.
     browser.tabs.closeWindowWithLastTab=false
     dom.webnotifications.enabled=false
     ```
-* For addon list see [Program Addons](ProgramAddons.md)
+* For addon list see [Program Addons](SoftwareAddons.md)
 
 ## QTTabBar
 My default config for [QTTabBar](http://qttabbar.wikidot.com/), available [here](/files/QTTabBarConfig.xml). Use `Import settings` feature.

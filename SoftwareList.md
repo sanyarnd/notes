@@ -79,7 +79,7 @@ Most of the software in the list is free and open source. If software has limita
 * [Notepad Replacer](https://www.binaryfortress.com/NotepadReplacer/) 🆓 - replace the default `Notepad` with any editor, e.g. `Notepad++`.
 * [Notepad++](https://notepad-plus-plus.org/) 🆓 - simply great, must be default replacement for `Notepad`.
 * [Sublime Text 3](https://www.sublimetext.com/3) 💰 - fast, has more features than `Notepad++`, can replace IDE in some cases.
-* [Visual Studio Code](https://code.visualstudio.com) 🆓 - a good (but slower) alternative to `Sumtime Text`. Has more plugins. See [this](ProgramAddons.md) for addon list.
+* [Visual Studio Code](https://code.visualstudio.com) 🆓 - a good (but slower) alternative to `Sumtime Text`. Has more plugins. See [this](SoftwareAddons.md) for addon list.
 
 ### IDE
 * [JetBrains Toolbox](https://www.jetbrains.com/toolbox/app/) 🆓 - manage all `IntelliJ` products and projects from one place.
