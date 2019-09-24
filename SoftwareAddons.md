@@ -68,32 +68,32 @@ Addons are sorted from top to bottom by necessetity.
 * [To Google Translate](https://addons.mozilla.org/en-US/firefox/addon/to-google-translate/) - Right-click on a section of text and click on Translate icon next to it to translate or listen it to your language.
 
 ## IntelliJ IDEs
-* [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore) - support for .ignore files.
+* [.​env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support) - support for `.env` files.
 
-* [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console) - powerful alternative output console.
+* [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore) - support for `.ignore` files.
 
-* [Lombok](https://plugins.jetbrains.com/plugin/6317-lombok) - support for `Lombok` annotations.
-
-* [Advanced Java Folding](https://plugins.jetbrains.com/plugin/9320-advanced-java-folding) - make `Java` code more readable.
-
-* [Kotlin](https://plugins.jetbrains.com/plugin/6954-kotlin) - `Kotlin` language support.
-
-* [Native Terminal](https://plugins.jetbrains.com/plugin/9966-native-terminal) - add toolbar button to run terminal
-
-* [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - string utilities.
-
-* [CheckStyle](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea) - `checkstyle` support inside IDE.
-
-* [PVS-Studio](https://plugins.jetbrains.com/plugin/12263-pvs-studio) - static analysis tool.
-
-* [CMD Support](https://plugins.jetbrains.com/plugin/5834-cmd-support) - support for Windows scripts.
+* [Advanced Java Folding](https://plugins.jetbrains.com/plugin/9320-advanced-java-folding) - make `Java` code more readable by folding visual noise.
 
 * [Batch Scripts Support](https://plugins.jetbrains.com/plugin/265-batch-scripts-support) - support for Windows scripts.
 
-* [.​env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support) - support for `.env` files.
+* [CheckStyle](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea) - `checkstyle` support inside IDE.
+
+* [CMD Support](https://plugins.jetbrains.com/plugin/5834-cmd-support) - support for Windows scripts.
+
+* [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console) - powerful alternative for the output console.
 
 * [Ini](https://plugins.jetbrains.com/plugin/6981-ini) - support for `.ini` files.
 
+* [Kotlin](https://plugins.jetbrains.com/plugin/6954-kotlin) - `Kotlin` language support.
+
+* [Lombok](https://plugins.jetbrains.com/plugin/6317-lombok) - support for `Lombok` annotations.
+
+* [Native Terminal](https://plugins.jetbrains.com/plugin/9966-native-terminal) - add toolbar button to run system terminal.
+
 * [PowerShell](https://plugins.jetbrains.com/plugin/10249-powershell) - support for `PowerShell` language.
 
+* [PVS-Studio](https://plugins.jetbrains.com/plugin/12263-pvs-studio) - static analysis tool.
+
 * [Statistic](https://plugins.jetbrains.com/plugin/4509-statistic) - collect numeric statistic about the code in your project.
+
+* [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - string utilities.

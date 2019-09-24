@@ -76,11 +76,11 @@ Most of the software in the list is free and open source. If software has limita
 ## Development
 ### Editors
 * [HxD](https://mh-nexus.de/en/hxd/) 🆓 - hex editor with raw disk and RAM editing support.
+* [Jupyter](https://jupyter.org/) 🆓 - web-based IDE (mostly) for Data Science.
 * [Notepad Replacer](https://www.binaryfortress.com/NotepadReplacer/) 🆓 - replace the default `Notepad` with any editor, e.g. `Notepad++`.
 * [Notepad++](https://notepad-plus-plus.org/) 🆓 - simply great, must be default replacement for `Notepad`.
 * [Sublime Text 3](https://www.sublimetext.com/3) 💰 - fast, has more features than `Notepad++`, can replace IDE in some cases.
 * [Visual Studio Code](https://code.visualstudio.com) 🆓 - a good (but slower) alternative to `Sumtime Text`. Has more plugins. See [this](SoftwareAddons.md) for addon list.
-* [Jupyter](https://jupyter.org/) 🆓 - web-based IDE for Data Science.
 
 ### IDE
 * [JetBrains Toolbox](https://www.jetbrains.com/toolbox/app/) 🆓 - manage all `IntelliJ` products and projects from one place.
@@ -88,9 +88,9 @@ Most of the software in the list is free and open source. If software has limita
 * [Visual Studio](https://visualstudio.microsoft.com/) 💲 - good IDE with support for many languages, has great debugger `C/C++` debugger.
 
 ### Version Control
+* [Fork](https://git-fork.com/) 🆓 - very polished and slick client for `git`.
 * [Git](https://git-scm.com/) 🆓 - free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [GitExtensions](https://github.com/gitextensions/gitextensions) 🆓 - `git` GUI client for `Windows`.
-* [Fork](https://git-fork.com/) 🆓 - very polished and slick client for `git`.
 
 ### Languages and frameworks
 * [CUDA](https://developer.nvidia.com/cuda-downloads) 🆓 - provides a development environment for creating high performance GPU-accelerated applications.
@@ -109,8 +109,8 @@ Most of the software in the list is free and open source. If software has limita
 
 ### Debuggers and decompilers
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra) 🆓 - software reverse engineering (SRE) framework.
-* [x64dbg](https://github.com/x64dbg/x64dbg) 🆓 - x64/x32 debugger for Windows.
 * [JEB Decompiler](https://www.pnfsoftware.com/) 💰 - disassembler and decompiler for Android and native applications.
+* [x64dbg](https://github.com/x64dbg/x64dbg) 🆓 - x64/x32 debugger for `Windows`.
 
 ### Code analysis
 * [Checkstyle](https://github.com/checkstyle/checkstyle) 🆓 - development tool to help programmers write Java code that adheres to a coding standard.
@@ -149,11 +149,11 @@ Most of the software in the list is free and open source. If software has limita
 
 ## Fonts and utils
 ### Fonts
-* [GNU FreeFont](https://www.gnu.org/software/freefont/) 🆓 - free family of scalable outline fonts, suitable for general use on computers and for desktop publishing. It is Unicode-encoded for compatibility with all modern operating systems.
 * [Fira Code](https://github.com/tonsky/FiraCode) 🆓 - monospaced font with programming ligatures.
+* [GNU FreeFont](https://www.gnu.org/software/freefont/) 🆓 - free family of scalable outline fonts, suitable for general use on computers and for desktop publishing. It is Unicode-encoded for compatibility with all modern operating systems.
 
 ### Utils
-* [BabelMap](http://www.babelstone.co.uk/Software/BabelMap.html) 🆓 - free character map application for Windows that allows you to browse through the entire Unicode character repertoire of nearly 138,000 characters, or search for a particular character by name or by code point.
+* [BabelMap](http://www.babelstone.co.uk/Software/BabelMap.html) 🆓 - free character map application for `Windows` that allows you to browse through the entire Unicode character repertoire of nearly 138,000 characters, or search for a particular character by name or by code point.
 * [BirdFont](https://birdfont.org/) 🆓 - free font editor which lets you create vector graphics and export TTF, OTF, EOT and SVG fonts. The editor has good support for both monochrome and color font formats.
 * [FontViewOK](https://www.softwareok.com/?seite=Freeware/FontViewOK) 🆓 - creates a quick visual overview of all installed fonts with, or fonts from a certain folder and helps to compare the font.
 * [Free Font Renamer](http://www.styopkin.com/free_font_renamer.html) 🆓 - give each font a name that speaks for itself with one click.
@@ -178,11 +178,11 @@ Most of the software in the list is free and open source. If software has limita
 * [Steam Achievement Manager](https://github.com/gibbed/SteamAchievementManager) 🆓 - lock and unlock steam achievements.
 
 ### Emulators
-* [CEMU](https://cemu.info/) 🆓 - `Wii U` emulator.
-* [Dolphin](https://dolphin-emu.org/) 🆓 - `Wii` emulator.
 * [ePSXe](https://www.epsxe.com/) 🆓 - `PSP` emulator.
 * [PCSX2](https://pcsx2.net) 🆓 - `PS2` emulator.
 * [RPCS3](https://rpcs3.net/) 🆓 - `PS3` emulator.
+* [CEMU](https://cemu.info/) 🆓 - `Wii U` emulator.
+* [Dolphin](https://dolphin-emu.org/) 🆓 - `Wii` emulator.
 
 ### Game data extractors and rippers
 * [3DX RipperDX](http://www.deep-shadows.com/hax/3DRipperDX.htm) 🆓 - capture models and textures from `DirectX 9` applications.
@@ -196,7 +196,7 @@ Most of the software in the list is free and open source. If software has limita
 
 
 ## Handcraft
-* [Pepakura Designer](https://tamasoft.co.jp/pepakura-en/index.html) 💰 - Pepakura Designer is a Windows application which makes unfolded patterns from 3D data, which allows you to create real paper craft models from digital data.
+* [Pepakura Designer](https://tamasoft.co.jp/pepakura-en/index.html) 💰 - Pepakura Designer is a `Windows` application which makes unfolded patterns from 3D data, which allows you to create real paper craft models from digital data.
 
 
 ## Internet
@@ -214,9 +214,9 @@ Most of the software in the list is free and open source. If software has limita
 * [VK messanger](https://vk.com/messenger) 🆓 - standalone messanger application for vk.com site.
 
 ### Downloaders
-* [Free Download Manager](https://www.freedownloadmanager.org/) 💰 -
-* [Internet Download Manager](https://www.internetdownloadmanager.com/) 💰 -
-* [qBittorrent](https://www.qbittorrent.org/) 🆓 -
+* [Free Download Manager](https://www.freedownloadmanager.org/) 🆓 - free download manager for `Windows` and `macOS`.
+* [Internet Download Manager](https://www.internetdownloadmanager.com/) 💰 - proprietary download manager for `Windows`.
+* [qBittorrent](https://www.qbittorrent.org/) 🆓 - opensource cross-platform torrent downloader.
 
 ### Mail
 * [Mail for Windows](https://www.microsoft.com/en-us/p/mail-and-calendar/9wzdncrfhvqm/) 🆓 -
