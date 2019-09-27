@@ -151,6 +151,7 @@ Most of the software in the list is free and open source. If software has limita
 ### Fonts
 * [Fira Code](https://github.com/tonsky/FiraCode) 🆓 - monospaced font with programming ligatures.
 * [GNU FreeFont](https://www.gnu.org/software/freefont/) 🆓 - free family of scalable outline fonts, suitable for general use on computers and for desktop publishing. It is Unicode-encoded for compatibility with all modern operating systems.
+* [PT Astra Serif](https://www.paratype.ru/fonts/pt/pt-astra-serif) 🆓 - free alternative to `Times New Roman`.
 
 ### Utils
 * [BabelMap](http://www.babelstone.co.uk/Software/BabelMap.html) 🆓 - free character map application for `Windows` that allows you to browse through the entire Unicode character repertoire of nearly 138,000 characters, or search for a particular character by name or by code point.
