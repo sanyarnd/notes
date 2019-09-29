@@ -94,6 +94,8 @@ Addons are sorted from top to bottom by necessetity.
 
 * [PVS-Studio](https://plugins.jetbrains.com/plugin/12263-pvs-studio) - static analysis tool.
 
+* [RoboPOJOGenerator](https://plugins.jetbrains.com/plugin/8634-robopojogenerator/) - generate POJO classes from JSON.
+
 * [Statistic](https://plugins.jetbrains.com/plugin/4509-statistic) - collect numeric statistic about the code in your project.
 
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - string utilities.
