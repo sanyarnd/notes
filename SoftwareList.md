@@ -270,6 +270,7 @@ Most of the software in the list is free and open source. If software has limita
 
 #### Viewers
 * [Nomacs](https://nomacs.org/) 🆓 -
+* [ImageGlass](https://imageglass.org/) 🆓 -
 * [IrfanView](https://www.irfanview.com/) 💲 -
 
 #### Other
@@ -437,7 +438,7 @@ Most of the software in the list is free and open source. If software has limita
 * [EasyUEFI](https://www.easyuefi.com/index-us.html) 💰 -
 * [KMS Tools](http://forum.ru-board.com/topic.cgi?amp&forum=2&topic=5328) 🆓 -
 * [WinDirStat](https://windirstat.net/) 🆓 -
-
+* [WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/) 🆓 -
 
 ## Linux
 * [FSearch](https://github.com/cboxdoerfer/fsearch) 🆓 - linux alternative to `Everything`.
