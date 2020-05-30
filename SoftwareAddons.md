@@ -65,34 +65,23 @@ Addons are sorted from top to bottom by necessetity.
 
 * [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/) - Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
 
-* [To Google Translate](https://addons.mozilla.org/en-US/firefox/addon/to-google-translate/) - Right-click on a section of text and click on Translate icon next to it to translate or listen it to your language.
 
 ## IntelliJ IDEs
 * [.​env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support) - support for `.env` files.
 
-* [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore) - support for `.ignore` files.
+* [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore) - support for different .ignore files.
 
 * [Advanced Java Folding](https://plugins.jetbrains.com/plugin/9320-advanced-java-folding) - make `Java` code more readable by folding visual noise.
 
-* [Batch Scripts Support](https://plugins.jetbrains.com/plugin/265-batch-scripts-support) - support for Windows scripts.
-
 * [CheckStyle](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea) - `checkstyle` support inside IDE.
-
-* [CMD Support](https://plugins.jetbrains.com/plugin/5834-cmd-support) - support for Windows scripts.
 
 * [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console) - powerful alternative for the output console.
 
-* [Ini](https://plugins.jetbrains.com/plugin/6981-ini) - support for `.ini` files.
-
-* [Kotlin](https://plugins.jetbrains.com/plugin/6954-kotlin) - `Kotlin` language support.
-
 * [Lombok](https://plugins.jetbrains.com/plugin/6317-lombok) - support for `Lombok` annotations.
 
-* [Native Terminal](https://plugins.jetbrains.com/plugin/9966-native-terminal) - add toolbar button to run system terminal.
-
-* [PowerShell](https://plugins.jetbrains.com/plugin/10249-powershell) - support for `PowerShell` language.
-
 * [PVS-Studio](https://plugins.jetbrains.com/plugin/12263-pvs-studio) - static analysis tool.
+
+* [Request Mapper](https://plugins.jetbrains.com/plugin/9567-request-mapper) - Plugin for quick navigation to url mapping declaration. Supports `Spring`, `JAX-RS`, `Micronaut`.
 
 * [RoboPOJOGenerator](https://plugins.jetbrains.com/plugin/8634-robopojogenerator/) - generate POJO classes from JSON.
 
