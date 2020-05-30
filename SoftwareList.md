@@ -4,79 +4,9 @@ Most of the software in the list is free and open source. If software has limita
 * 💲 - free for personal use;
 * 💰 - no free version.
 
-- [Software list](#software-list)
-  - [Development](#development)
-    - [Editors](#editors)
-    - [IDE](#ide)
-    - [Version Control](#version-control)
-    - [Languages and frameworks](#languages-and-frameworks)
-    - [Build Tools](#build-tools)
-    - [Debuggers and decompilers](#debuggers-and-decompilers)
-    - [Code analysis](#code-analysis)
-    - [Math](#math)
-    - [Game Development](#game-development)
-    - [Compare Tools](#compare-tools)
-    - [JVM Development](#jvm-development)
-    - [REST Clients](#rest-clients)
-  - [Encryption and security](#encryption-and-security)
-  - [Fonts and utils](#fonts-and-utils)
-    - [Fonts](#fonts)
-    - [Utils](#utils)
-  - [Game software](#game-software)
-    - [Game Launchers](#game-launchers)
-    - [Drivers](#drivers)
-    - [Cheating](#cheating)
-    - [Emulators](#emulators)
-    - [Game data extractors and rippers](#game-data-extractors-and-rippers)
-  - [Handcraft](#handcraft)
-  - [Internet](#internet)
-    - [Browsers](#browsers)
-    - [Communication](#communication)
-    - [Downloaders](#downloaders)
-    - [Mail](#mail)
-    - [Network analysis](#network-analysis)
-    - [Data hoarding](#data-hoarding)
-      - [Scrappers](#scrappers)
-      - [Site downloaders](#site-downloaders)
-    - [Servers](#servers)
-    - [Storage](#storage)
-  - [Media](#media)
-    - [2D](#2d)
-      - [Editors](#editors-1)
-      - [Viewers](#viewers)
-      - [Other](#other)
-    - [3D](#3d)
-    - [Audio](#audio)
-    - [Screenshots and screen recording](#screenshots-and-screen-recording)
-    - [Video](#video)
-  - [Office](#office)
-    - [Dictionaries](#dictionaries)
-    - [LaTeX](#latex)
-    - [Office packages](#office-packages)
-    - [PDF](#pdf)
-    - [Other](#other-1)
-  - [Operation Systems ISOs](#operation-systems-isos)
-  - [System](#system)
-    - [Achievers and file managers](#achievers-and-file-managers)
-    - [CD, HDD and USB](#cd-hdd-and-usb)
-    - [Cleaners](#cleaners)
-    - [Desktop environment enhancers](#desktop-environment-enhancers)
-    - [Duplicate files search](#duplicate-files-search)
-    - [Hardware info and monitoring](#hardware-info-and-monitoring)
-    - [Remote](#remote)
-    - [Registry and process editors](#registry-and-process-editors)
-    - [Software runtimes](#software-runtimes)
-    - [Terminals](#terminals)
-    - [Tools collection](#tools-collection)
-    - [Virtualization](#virtualization)
-    - [Other](#other-2)
-  - [Linux](#linux)
-
-
 ## Development
 ### Editors
 * [HxD](https://mh-nexus.de/en/hxd/) 🆓 - hex editor with raw disk and RAM editing support.
-* [Jupyter](https://jupyter.org/) 🆓 - web-based IDE (mostly) for Data Science.
 * [Notepad Replacer](https://www.binaryfortress.com/NotepadReplacer/) 🆓 - replace the default `Notepad` with any editor, e.g. `Notepad++`.
 * [Notepad++](https://notepad-plus-plus.org/) 🆓 - simply great, must be default replacement for `Notepad`.
 * [Sublime Text 3](https://www.sublimetext.com/3) 💰 - fast, has more features than `Notepad++`, can replace IDE in some cases.
@@ -84,11 +14,10 @@ Most of the software in the list is free and open source. If software has limita
 
 ### IDE
 * [JetBrains Toolbox](https://www.jetbrains.com/toolbox/app/) 🆓 - manage all `IntelliJ` products and projects from one place.
-* [RStudio](https://github.com/rstudio/rstudio) 🆓 - integrated development environment for `R`.
+* [RStudio Server](https://rstudio.com/products/rstudio/download-server/) 🆓 - integrated development environment for `R`. Launches as web server and can be hosted in WSL or docker container (R has better support on Linux).
 * [Visual Studio](https://visualstudio.microsoft.com/) 💲 - good IDE with support for many languages, has great debugger `C/C++` debugger.
 
 ### Version Control
-* [Fork](https://git-fork.com/) 🆓 - very polished and slick client for `git`.
 * [Git](https://git-scm.com/) 🆓 - free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [GitExtensions](https://github.com/gitextensions/gitextensions) 🆓 - `git` GUI client for `Windows`.
 
@@ -102,7 +31,7 @@ Most of the software in the list is free and open source. If software has limita
 * [Rust](https://www.rust-lang.org) 🆓 - a multi-paradigm system programming language focused on safety, especially safe concurrency.
 * [Stack](https://www.haskellstack.org) 🆓 - a platform for managing and developing Haskell projects.
 
-### Build Tools
+### Build Tools / Package Manager
 * [CMake](https://cmake.org) 🆓 - an open-source, cross-platform family of tools designed to build, test and package software.
 * [Gradle](https://gradle.org/) 🆓 - an open-source build automation tool focused on flexibility and performance.
 * [Maven](https://maven.apache.org/) 🆓 - software project management and comprehension tool.
@@ -135,11 +64,11 @@ Most of the software in the list is free and open source. If software has limita
 * [Meld](https://meldmerge.org/) 🆓 - visual diff and merge tool targeted at developers. Meld helps you compare files, directories, and version controlled projects.
 
 ### JVM Development
-* JDK [[1](https://openjdk.java.net/), [2](https://www.azul.com/downloads/zulu-community/), [3](https://adoptopenjdk.net/)] 🆓 - java development kit.
+* JDK [[1](https://openjdk.java.net/), [2](https://adoptopenjdk.net/)] 🆓 - java development kit.
 * [Scene Builder](https://gluonhq.com/products/scene-builder/) 🆓 - visual layout tool for JavaFX applications.
 
-### REST Clients
-* [Insomnia](https://insomnia.rest/) 🆓 - powerful HTTP and GraphQL tool belt.
+### Databases
+* [DBeaver](https://dbeaver.io) 🆓 - `Eclipse`-based database explorer/editor/etc, supports all mainstream databases.
 
 
 ## Encryption and security
@@ -151,7 +80,8 @@ Most of the software in the list is free and open source. If software has limita
 ### Fonts
 * [Fira Code](https://github.com/tonsky/FiraCode) 🆓 - monospaced font with programming ligatures.
 * [GNU FreeFont](https://www.gnu.org/software/freefont/) 🆓 - free family of scalable outline fonts, suitable for general use on computers and for desktop publishing. It is Unicode-encoded for compatibility with all modern operating systems.
-* [PT Astra Serif](https://www.paratype.ru/fonts/pt/pt-astra-serif) 🆓 - free alternative to `Times New Roman`.
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) 🆓 - 
+* [Paratype Public Pack](https://www.paratype.ru/collections/pt/44157) 🆓 - free alternative to `Times New Roman` and many other fonts.
 
 ### Utils
 * [BabelMap](http://www.babelstone.co.uk/Software/BabelMap.html) 🆓 - free character map application for `Windows` that allows you to browse through the entire Unicode character repertoire of nearly 138,000 characters, or search for a particular character by name or by code point.
@@ -206,6 +136,9 @@ Most of the software in the list is free and open source. If software has limita
 * [Firefox](https://www.mozilla.org/en-US/firefox/all/) 🆓 - free open-source web browser developed by `Mozilla Corporation`.
 * [Tor](https://www.torproject.org) 🆓 - free and open-source software for enabling anonymous communication. See [this](SoftwareConfigurations.md) for configuration outside of `Tor Browser`.
 
+### DPI
+* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) 🆓 - avoid DPI filtering.
+
 ### Communication
 * [Discord](https://discordapp.com/) 🆓 - voice messaging application with multi-video calls.
 * [HexChat](https://hexchat.github.io/) 🆓 - `IRC` client.
@@ -220,8 +153,8 @@ Most of the software in the list is free and open source. If software has limita
 * [qBittorrent](https://www.qbittorrent.org/) 🆓 - opensource cross-platform torrent downloader.
 
 ### Mail
-* [Mail for Windows](https://www.microsoft.com/en-us/p/mail-and-calendar/9wzdncrfhvqm/) 🆓 -
-* [Thunderbird](https://www.thunderbird.net/) 🆓 -
+* [Mail for Windows](https://www.microsoft.com/en-us/p/mail-and-calendar/9wzdncrfhvqm/) 🆓 - native mail client for `Windows`.
+* [Thunderbird](https://www.thunderbird.net/) 🆓 - cross-platform mail client.
 
 ### Network analysis
 * [Wireshark](https://www.wireshark.org) 🆓 -  packet analyzer, used for network troubleshooting, analysis, software and communications protocol development.
@@ -273,8 +206,6 @@ Most of the software in the list is free and open source. If software has limita
 * [ImageGlass](https://imageglass.org/) 🆓 -
 * [IrfanView](https://www.irfanview.com/) 💲 -
 
-#### Other
-* [Pinga](https://css-ig.net/pingo) 🆓 -
 
 ### 3D
 * [3DCoat](https://3dcoat.com/) 💰 -
@@ -300,7 +231,6 @@ Most of the software in the list is free and open source. If software has limita
 
 ### Screenshots and screen recording
 * [Captura](https://github.com/MathewSachin/Captura) 🆓 -
-* [FastStone Capture](https://www.faststone.org/FSCaptureDetail.htm) 🆓 -
 * [Flameshot](https://github.com/lupoDharkael/flameshot) 🆓 -
 * [OBS Studio](https://obsproject.com/) 🆓 -
 * [Share X](https://getsharex.com/) 🆓 -
@@ -406,6 +336,8 @@ Most of the software in the list is free and open source. If software has limita
 * [mRemoteNG](https://mremoteng.org/) 🆓 -
 * [TeamViewer](https://www.teamviewer.com/) 💲 -
 * [WinSCP](https://winscp.net/eng/download.php) 🆓 -
+* [sshfs-win](https://github.com/billziss-gh/sshfs-win) 🆓 - support mounting remote SSH catalogs.
+
 
 ### Registry and process editors
 * [O&O RegEditor](https://www.oo-software.com/en/ooregeditor) 🆓 -
@@ -423,6 +355,7 @@ Most of the software in the list is free and open source. If software has limita
 * [Clink](https://mridgers.github.io/clink/) 🆓 -
 * [ConEmu](https://conemu.github.io/) 🆓 -
 * [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) 🆓 -
+* [Windows Terminal](https://github.com/microsoft/terminal) 🆓 -
 
 ### Tools collection
 * [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) 🆓 -
@@ -432,13 +365,15 @@ Most of the software in the list is free and open source. If software has limita
 * [Sandboxie](https://www.sandboxie.com/) 💰 -
 * [VirtualBox](https://www.virtualbox.org/) 🆓 -
 * [VMWare Workstation](https://www.vmware.com/products/workstation-pro.html) 💰 -
+* [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview) 🆓 -
 
 ### Other
 * [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Download.php) 💲 -
 * [EasyUEFI](https://www.easyuefi.com/index-us.html) 💰 -
 * [KMS Tools](http://forum.ru-board.com/topic.cgi?amp&forum=2&topic=5328) 🆓 -
-* [WinDirStat](https://windirstat.net/) 🆓 -
+* [PowerToys](https://github.com/microsoft/PowerToys) 🆓 -
 * [WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/) 🆓 -
+
 
 ## Linux
 * [FSearch](https://github.com/cboxdoerfer/fsearch) 🆓 - linux alternative to `Everything`.
