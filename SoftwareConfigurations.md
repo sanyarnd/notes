@@ -68,27 +68,12 @@ Cross-platform distribution, available [here](https://github.com/PowerShell/Powe
     * `%HOME%/Documents/PowerShell/` for `PowerShell Core`
 
 
-## ZSH
-1. Install `Oh My ZSH`:
+## Prezto
+1. Install `Prezto`: https://github.com/sorin-ionescu/prezto#installation
+2 Install fonts: https://github.com/romkatv/powerlevel10k/blob/master/README.md#meslo-nerd-font-patched-for-powerlevel10k
+3. Install theme:
     ```shell script
-    sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-    ```
-2. Install plugins:
-    ```shell script
-    git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
-    ```
-    ```shell script
-    git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search
-    ```
-    ```shell script
-    git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-    ```
-    ```shell script
-    git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-completions
-    ```
-3. Enable installed plugins in `.zshrc`, e.g.:
-    ```shell script
-    plugins=(python pip npm node rust cargo archlinux colorize command-not-found git zsh-syntax-highlighting zsh-history-substring-search zsh-autosuggestions zsh-completions)
+    zstyle :prezto:module:prompt theme powerlevel10k
     ```
 
 
