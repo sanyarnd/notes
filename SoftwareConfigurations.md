@@ -81,13 +81,13 @@ Cross-platform distribution, available [here](https://github.com/PowerShell/Powe
 Rename queries:
 * For movies:
     ```
-    {n.upperInitial().space(' ')} {'часть '+pi} {audio.language} [{vf}, {(video.bitrate[0].toFloat()/1000).round()}kbps] [{y}, {imdbid}, {certification}, {rating}][{crc32}]
+    {n.upperInitial().space(' ')} {'часть '+pi} {audio.language} [{vf}, {(video.bitrate[0].toFloat()/1000).round()}kbps] [{y}, {imdbid}, {certification}, {rating}]
     ```
 * For series:
     ```
-    {n.upperInitial()}/[{s00e00}] - {t} {audio.language} [{vf}, {(video.bitrate[0].toFloat()/1000).round()}kbps] [{y}, {imdbid}, {certification}, {rating}][{crc32}]
+    {n.upperInitial()}/[{s00e00}] - {t} {audio.language} [{vf}, {(video.bitrate[0].toFloat()/1000).round()}kbps] [{y}, {imdbid}, {certification}, {rating}]
     ```
-
+Use `[{crc32}]` for CRC32 checksum
 
 ## Picard
 Rename query:
