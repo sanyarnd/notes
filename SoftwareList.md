@@ -60,7 +60,7 @@ Most of the software in the list is free and open source. If software has limita
 
 ### Compare Tools
 * [Beyond Compare](https://www.scootersoftware.com/) 💰 - allows you to quickly and easily compare your files and folders.
-* [KDiff3](http://kdiff3.sourceforge.net/) 🆓 - diff and merge program.
+* [KDiff3](https://download.kde.org/stable/kdiff3/) 🆓 - diff and merge program.
 * [Meld](https://meldmerge.org/) 🆓 - visual diff and merge tool targeted at developers. Meld helps you compare files, directories, and version controlled projects.
 
 ### JVM Development
