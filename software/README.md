@@ -248,7 +248,7 @@ Most of the software in the list is free and open source. If software has limita
 * [Subtitle Edit](https://www.nikse.dk/subtitleedit) 🆓 -
 * [VLC](https://www.videolan.org/vlc/index.html) 🆓 -
 * [VSDC Free Video Editor](http://www.videosoftdev.com/) 🆓 -
-
+* Loseless cut
 
 ## Office
 ### Dictionaries
