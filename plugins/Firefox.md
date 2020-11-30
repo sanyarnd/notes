@@ -2,6 +2,8 @@
 
 * [Absolute Enable Right Click](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/) - Force Enable Right Click & Copy.
 
+* [ClearURLs](https://addons.mozilla.org/ru/firefox/addon/clearurls/) - Removes tracking elements from URLs.
+
 * [cliget](https://addons.mozilla.org/en-US/firefox/addon/cliget/) - Download login-protected files from the command line using curl, wget or aria2.
 
 * [CookieBro](https://addons.mozilla.org/en-US/firefox/addon/cookiebro/) - Advanced cookie manager for easy cookie management and automatic deletion of unwanted cookies. Supports whitelist & blacklist and provides an easy-to-use interface for whitelisting domains. View, Edit, Create, Search cookies in Cookie Editor.
@@ -60,6 +62,8 @@
 * [Search by image](https://addons.mozilla.org/ru/firefox/addon/search_by_image) - A powerful reverse image search tool, with support for various search engines, such as Google, Bing, Yandex, Baidu and TinEye.1
 
 * [Switch Container Plus](https://addons.mozilla.org/en-US/firefox/addon/switch-container-plus/) - Switch the current tab to a different container in multiple ways.
+
+* [Tabliss](https://addons.mozilla.org/ru/firefox/addon/tabliss/) - A beautiful New Tab page with many customisable backgrounds and widgets that does not require any permissions.
 
 * [Tab Session Manager](https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/) - Save and restore the state of windows and tabs. It also supports automatic saving.
 
