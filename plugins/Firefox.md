@@ -67,6 +67,8 @@
 
 * [Tab Session Manager](https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/) - Save and restore the state of windows and tabs. It also supports automatic saving.
 
+* [Translation](https://addons.mozilla.org/ru/firefox/addon/traduzir-paginas-web) - Translate web pages in real time.
+
 * [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) - Show tabs like a tree.
 
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - Finally, an efficient blocker. Easy on CPU and memory.
