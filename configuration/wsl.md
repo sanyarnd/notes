@@ -1,0 +1,5 @@
+`/etc/wsl.conf`
+```
+[interop]
+appendWindowsPath = false
+```
