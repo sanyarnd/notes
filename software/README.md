@@ -64,7 +64,7 @@ Most of the software in the list is free and open source. If software has limita
 * [Meld](https://meldmerge.org/) 🆓 - visual diff and merge tool targeted at developers. Meld helps you compare files, directories, and version controlled projects.
 
 ### JVM Development
-* JDK [[1](https://openjdk.java.net/), [2](https://adoptopenjdk.net/)] 🆓 - java development kit.
+* JDK [[1](https://adoptium.net/), [2](https://openjdk.java.net/)] 🆓 - java development kit.
 * [Scene Builder](https://gluonhq.com/products/scene-builder/) 🆓 - visual layout tool for JavaFX applications.
 
 ### Databases
