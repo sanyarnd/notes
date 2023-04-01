@@ -200,6 +200,7 @@ Most of the software in the list is free and open source. If software has limita
 * [Paint Tool SAI](http://www.systemax.jp/en/sai/) 💰 -
 * [Paint.NET](https://www.getpaint.net/) 🆓 -
 * [Фото на Документы](http://photo-document.ru/) 💰 -
+* [Upscayl](https://upscayl.github.io/) 🆓 -
 
 #### Viewers
 * [Nomacs](https://nomacs.org/) 🆓 -
