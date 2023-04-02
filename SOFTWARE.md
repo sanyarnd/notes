@@ -41,11 +41,11 @@ Most of the software in the list is free and open source. If software has limita
 ## Editors, IDE, SDK, build and development tools
 
 * [HxD](https://mh-nexus.de/en/hxd/) - file hex editor.
-* [Notepad++](https://notepad-plus-plus.org/) - better alternative for `Notepad`.
-* [Visual Studio Code](https://code.visualstudio.com) - a good (but slower) alternative to `Sumtime Text`, has more plugins.
-* [JetBrains Toolbox](https://www.jetbrains.com/toolbox/app/) - manage all `IntelliJ` products and projects from one place.
-* [RStudio Server](https://posit.co/products/open-source/rstudio-server/) - `R` web-server, can be launched in `WSL`.
-* [DBeaver](https://dbeaver.io) - `Eclipse`-based database editor, supports all mainstream databases.
+* [Notepad++](https://notepad-plus-plus.org/) - better alternative for Notepad.
+* [Visual Studio Code](https://code.visualstudio.com) - a good (but slower) alternative to Sumtime Text, has more plugins.
+* [JetBrains Toolbox](https://www.jetbrains.com/toolbox/app/) - manage all IntelliJ products and projects from one place.
+* [RStudio Server](https://posit.co/products/open-source/rstudio-server/) - R web-server, can be launched in WSL.
+* [DBeaver](https://dbeaver.io) - Eclipse-based database editor, supports all mainstream databases.
 * [JDK](https://adoptopenjdk.net/) - Java Development Kit.
 * [Node.js](https://nodejs.org/en/) - JavaScript runtime for frontend development.
 * [CMake](https://cmake.org) - C++ build system.
@@ -57,19 +57,19 @@ Most of the software in the list is free and open source. If software has limita
 * [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows) - new version on PowerShell.
 * [Qt](https://www.qt.io) - is a free and open-source widget toolkit for creating graphical user interfaces as well as cross-platform applications.
 * [Rust](https://www.rust-lang.org) - a multi-paradigm system programming language focused on safety, especially concurrency.
-* [Stack](https://www.haskellstack.org) - a platform for managing and developing `Haskell` projects.
+* [Stack](https://www.haskellstack.org) - a platform for managing and developing Haskell projects.
 * [KDiff3](https://download.kde.org/stable/kdiff3/) - diff and merge program.
 * [Meld](https://meldmerge.org/) - visual diff and merge tool targeted at developers. Meld helps you compare files, directories, and version controlled projects.
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - software reverse engineering framework.
-* [x64dbg](https://github.com/x64dbg/x64dbg) - x64/x32 debugger for `Windows`.
+* [x64dbg](https://github.com/x64dbg/x64dbg) - x64/x32 debugger for Windows.
 * [Wireshark](https://www.wireshark.org) -  packet analyzer, used for network troubleshooting, analysis, software and communications protocol development.
 * [Visual Studio](https://visualstudio.microsoft.com/) 🏠 - good IDE with support for many languages, has great debugger C/C++ debugger.
-* [Sublime Text](https://www.sublimetext.com/) 💲 - fast, has more features than `Notepad++`, can replace IDE in some cases.
+* [Sublime Text](https://www.sublimetext.com/) 💲 - fast, has more features than Notepad++, can replace IDE in some cases.
 * [Beyond Compare](https://www.scootersoftware.com/) 💲 - allows you to quickly and easily compare your files and folders.
 
 ## Terminal
 
-* [Oh My ZSH](https://ohmyz.sh/) - framework for managing `Zsh` settings. See [this](SoftwareConfigurations.md) related document for configuration instructions.
+* [Oh My ZSH](https://ohmyz.sh/) - framework for managing Zsh settings. See [this](SoftwareConfigurations.md) related document for configuration instructions.
 * [Clink](https://mridgers.github.io/clink/) + [Completions](https://github.com/vladimir-kotikov/clink-completions/) - autocomplete for CMD.
 * [ConEmu](https://conemu.github.io/) - alternative Windows terminal.
 * [Windows Terminal](https://github.com/microsoft/terminal) - new Windows terminal.
@@ -78,7 +78,7 @@ Most of the software in the list is free and open source. If software has limita
 ## Version Control
 
 * [Git](https://git-scm.com/) - distributed version control.
-* [GitExtensions](https://github.com/gitextensions/gitextensions) - `git` GUI client for `Windows`.
+* [GitExtensions](https://github.com/gitextensions/gitextensions) - git GUI client for Windows.
 
 ## Math
 
@@ -94,8 +94,8 @@ Most of the software in the list is free and open source. If software has limita
 
 * [Fira Code](https://github.com/tonsky/FiraCode) - monospaced font with programming ligatures.
 * [GNU FreeFont](https://www.gnu.org/software/freefont/) - family of scalable outline fonts, suitable for general use.
-* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - iconic font aggregator, collection, & patcher. For example, I have a patched version of `Fira Code` [here](/files/Fira%20Code%206.2%20NF.zip).
-* [Paratype Public Pack](https://www.paratype.ru/collections/pt/44157) - alternative to `Times New Roman` and many other fonts.
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - iconic font aggregator, collection, & patcher. For example, I have a patched version of Fira Code [here](/files/Fira%20Code%206.2%20NF.zip).
+* [Paratype Public Pack](https://www.paratype.ru/collections/pt/44157) - alternative to Times New Roman and many other fonts.
 
 ### Utils
 
@@ -133,23 +133,23 @@ Most of the software in the list is free and open source. If software has limita
 
 ## Browsers / Mail
 
-* [Chromium](https://chromium.woolyss.com) - `Chrome` w/o telemetry and spyware.
-* [Firefox](https://www.mozilla.org/en-US/firefox/all/) - the only competitor to `Chrome`.
+* [Chromium](https://chromium.woolyss.com) - Chrome w/o telemetry and spyware.
+* [Firefox](https://www.mozilla.org/en-US/firefox/all/) - the only competitor to Chrome.
 * [Thunderbird](https://www.thunderbird.net/) - cross-platform mail client.
 
 ## VPN / Censorship
 
-* [Tor](https://www.torproject.org) - `Firefox`-based browser with TOR network support.
+* [Tor](https://www.torproject.org) - Firefox-based browser with TOR network support.
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - avoid DPI filtering.
+* [GoodbyeDPI Launcher](https://topersoft.com/programs/launchergdpi) - UI for GoodbyeDPI.
 * [Wireguard](https://download.wireguard.com/) - fast VPN protocol.
 
 ## Messangers
 
 * [Discord](https://discordapp.com/) - voice messaging application with multi-video calls.
-* [HexChat](https://hexchat.github.io/) - `IRC` client.
-* [Slack](https://slack.com/) 🏠 - messaging app, mostly oriented on Enterprise/IT market.
+* [HexChat](https://hexchat.github.io/) - IRC client.
 * [Telegram](https://github.com/telegramdesktop/tdesktop) - fast and reliable messanger.
-* [WhatsApp](https://www.whatsapp.com/) - convinient way to use `WhatsApp` on PC.
+* [WhatsApp](https://www.whatsapp.com/) - convinient way to use WhatsApp on PC.
 * [VK messanger](https://vk.me/app) - standalone messanger application for vk.com.
 
 ## Downloaders
@@ -157,7 +157,7 @@ Most of the software in the list is free and open source. If software has limita
 * [qBittorrent](https://www.qbittorrent.org/) - opensource cross-platform torrent downloader.
 * [Transmission Remote GUI](https://github.com/transmission-remote-gui/transgui) - GUI for remote transmission control.
 * [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - fake torrent ratio stats.
-* [Internet Download Manager](https://www.internetdownloadmanager.com/) 💲 - proprietary fast download manager for `Windows`.
+* [Internet Download Manager](https://www.internetdownloadmanager.com/) 💲 - proprietary fast download manager for Windows.
 
 ### Archivers / Crawlers
 
@@ -173,8 +173,8 @@ Most of the software in the list is free and open source. If software has limita
 
 ## 2D & 3D
 
-* [ImageGlass](https://imageglass.org/) - image viewer, written in `C#`.
-* [Nomacs](https://nomacs.org/) - image viewer written in `C++`.
+* [ImageGlass](https://imageglass.org/) - image viewer, written in C#.
+* [Nomacs](https://nomacs.org/) - image viewer written in C++.
 * [InkScape](https://inkscape.org/) - vector (SVG) viewer and editor.
 * [GIMP](https://www.gimp.org/) - raster graphics editor, similar to PhotoShop.
 * [Krita](https://krita.org) - raster graphics editor focused on digital art (drawing, painting).
@@ -193,7 +193,7 @@ Most of the software in the list is free and open source. If software has limita
 * [Picard](https://picard.musicbrainz.org/) - audio tag editor.
 * [TagScanner](https://www.xdlab.ru/) - audio tag editor.
 * [FFMpeg](https://ffmpeg.org/) - record, convert and stream audio and video.
-* [LoselessCut](https://github.com/mifi/lossless-cut) - user-friendly GUI for `ffmpleg`, audio/video editor.
+* [LoselessCut](https://github.com/mifi/lossless-cut) - user-friendly GUI for ffmpleg, audio/video editor.
 * [Kdenlive](https://kdenlive.org) - video editor.
 * [Natron](https://natrongithub.github.io/) - compositing/VFX editor.
 * [Shotcut](https://shotcut.org/) - video editor.
@@ -297,4 +297,4 @@ Most of the software in the list is free and open source. If software has limita
 
 ## Linux UX enhancers
 
-* [FSearch](https://github.com/cboxdoerfer/fsearch) - linux alternative to `Everything`.
+* [FSearch](https://github.com/cboxdoerfer/fsearch) - linux alternative to Everything.
