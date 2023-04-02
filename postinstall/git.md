@@ -14,15 +14,15 @@
    PreferredAuthentications publickey
    IdentityFile ~/.ssh/personal-github
   
-  Host some-id.github.com
+  Host work.github.com
    HostName github.com
    PreferredAuthentications publickey
    IdentityFile ~/.ssh/work-github
   ```
 
-## Clone with `ssh://`, use host-alias (some-id) if needed
+## Clone with `ssh://`, use host-alias (work) if needed
 
   ```sh
   git clone ssh://git@github.com/personal/repo
-  git clone ssh://git@some-id.github.com/some-other-project/repo
+  git clone ssh://git@work.github.com/some-other-project/repo
   ```
