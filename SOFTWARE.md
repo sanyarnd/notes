@@ -69,11 +69,11 @@ Most of the software in the list is free and open source. If software has limita
 
 ## Terminal
 
-* [Oh My ZSH](https://ohmyz.sh/) - framework for managing Zsh settings. See [this](SoftwareConfigurations.md) related document for configuration instructions.
 * [Clink](https://mridgers.github.io/clink/) + [Completions](https://github.com/vladimir-kotikov/clink-completions/) - autocomplete for CMD.
 * [ConEmu](https://conemu.github.io/) - alternative Windows terminal.
 * [Windows Terminal](https://github.com/microsoft/terminal) - new Windows terminal.
 * [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) - Linux Subsystem for Windows.
+* [Zim](https://github.com/zimfw/zimfw) - framework for managing Zsh settings. My configuration can be found [here](/postinstall/zsh.md).
 
 ## Version Control
 
