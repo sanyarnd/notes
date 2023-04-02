@@ -1,6 +1,6 @@
 # Picard rename query
 
-```sh
+```java
 $replace($rreplace(
 $if($eq(%albumartist%,Various Artists),
         [Various Artists],
