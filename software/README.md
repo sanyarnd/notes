@@ -145,7 +145,7 @@ Most of the software in the list is free and open source. If software has limita
 * [Slack](https://slack.com/) 💲 - massive (thousands of users in one chat) messaging app, mostly oriented on IT market.
 * [Telegram](https://github.com/telegramdesktop/tdesktop) 🆓 - fast and reliable messanger.
 * [WhatsApp](https://www.whatsapp.com/) 🆓 - convinient way to use `WhatsApp` on Desktop.
-* [VK messanger](https://vk.com/messenger) 🆓 - standalone messanger application for vk.com site.
+* [VK messanger](https://vk.com/vkme) 🆓 - standalone messanger application for vk.com site.
 
 ### Downloaders
 * [Free Download Manager](https://www.freedownloadmanager.org/) 🆓 - free download manager for `Windows` and `macOS`.
