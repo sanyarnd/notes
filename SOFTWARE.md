@@ -5,6 +5,39 @@ Most of the software in the list is free and open source. If software has limita
 * 🏠 - free for personal use;
 * 💲 - no free version.
 
+## Table of Contents
+
+* [Editors, IDE, SDK, build and development tools](#editors-ide-sdk-build-and-development-tools)
+* [Terminal](#terminal)
+* [Version Control](#version-control)
+* [Math](#math)
+* [Encryption and security](#encryption-and-security)
+* [Fonts](#fonts)
+  * [Utils](#utils)
+* [Gaming](#gaming)
+  * [Cheating](#cheating)
+  * [Console emulators](#console-emulators)
+* [Browsers / Mail](#browsers--mail)
+* [VPN / Censorship](#vpn--censorship)
+* [Messangers](#messangers)
+* [Downloaders](#downloaders)
+  * [Archivers / Crawlers](#archivers--crawlers)
+* [File Sharing](#file-sharing)
+* [2D \& 3D](#2d--3d)
+* [Audio / Video](#audio--video)
+* [Screenshots / Screen Recording and Streaming](#screenshots--screen-recording-and-streaming)
+* [Dictionaries](#dictionaries)
+* [Office: PDF, docx, LaTeX](#office-pdf-docx-latex)
+* [Operation Systems](#operation-systems)
+* [Virtualization and Sandbox](#virtualization-and-sandbox)
+* [Achievers and file managers](#achievers-and-file-managers)
+* [Data restoration and maintainence](#data-restoration-and-maintainence)
+* [Hardware info and monitoring](#hardware-info-and-monitoring)
+* [Remote](#remote)
+* [System administration](#system-administration)
+* [Windows UX enhancers](#windows-ux-enhancers)
+* [Linux UX enhancers](#linux-ux-enhancers)
+
 ## Editors, IDE, SDK, build and development tools
 
 * [HxD](https://mh-nexus.de/en/hxd/) - file hex editor.
@@ -125,7 +158,6 @@ Most of the software in the list is free and open source. If software has limita
 * [Transmission Remote GUI](https://github.com/transmission-remote-gui/transgui) - GUI for remote transmission control.
 * [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - fake torrent ratio stats.
 * [Internet Download Manager](https://www.internetdownloadmanager.com/) 💲 - proprietary fast download manager for `Windows`.
-
 
 ### Archivers / Crawlers
 
