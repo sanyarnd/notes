@@ -3,9 +3,10 @@
 * Modify `about:config` params:
 
     ```ini
-    toolkit.legacyUserProfileCustomizations.stylesheets=true
-    browser.tabs.closeWindowWithLastTab=false
-    dom.webnotifications.enabled=false
+    toolkit.legacyUserProfileCustomizations.stylesheets = true
+    browser.tabs.closeWindowWithLastTab = false
+    dom.webnotifications.enabled = false
+    browser.tabs.tabmanager.enabled = false
     ```
 
 * Install addons:
