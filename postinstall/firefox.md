@@ -25,3 +25,7 @@
   * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
 * Hide tab from top panel, see [file](/files/userChrome.css) or [this](https://github.com/piroor/treestyletab/wiki/Code-snippets-for-custom-style-rules#hide-horizontal-tabs-at-the-top-of-the-window-1349-1672-2147).
+
+
+## Restore profile data
+https://support.mozilla.org/en-US/kb/recovering-important-data-from-an-old-profile
