@@ -322,7 +322,7 @@ will be marked as such:
 * [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu) - a collection of utilities bringing back classic features
   to Windows, such as Start Menu.
 * [PowerToys](https://github.com/microsoft/PowerToys) - misc utilities, the only good thing is regex rename tool.
-* [Rainmeter](https://www.rainmeter.net/) - desktop customizer: custom skins, meters and more.
+* [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Dynamic Desktop feature to Windows.
 * [Winaero Tweaker](https://www.startallback.com/) - misc utilities for Windows look & feel.
 * [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Download.php) 🏠 - regex rename tool.
 * [Wallpaper Engine](https://www.wallpaperengine.io) 💲 - live wallpapers.
